@@ -1,0 +1,1 @@
+mi primera aplicacion back end, trate de realizar lo mejor pese a los horarios de mi trabajo y otras causas personales, espero que mi api les sirva y estoy abierto a cualquier critica y oportunidad de mejora
